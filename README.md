@@ -34,27 +34,27 @@ The Poliquin Structural Balance Calculator helps in assessing the strength balan
 Here is an example of the input and output from the calculator:
 
 
-Enter the Close Grip Bench Press weight (kg): 100
-Enter the High Bar Back Squat weight (kg): 150
+- Enter the Close Grip Bench Press weight (kg): 100
+- Enter the High Bar Back Squat weight (kg): 150
 
-Incline Bench Press: 91.0 kg
-Parallel Bar Dip: 117.0 kg
-1-Arm Dumbbell Press (per arm): 30.0 kg
-Lying Triceps Extension: 40.0 kg
-Supinated Chin-ups: 87.0 kg
-Scott Barbell Curls: 46.0 kg
-Standing Reverse Curls: 40.0 kg
-Flat Powel Raise: 10.6 kg
-Bent-over Dumbbell Trap-3 Raise: 10.6 kg
-Seated Dumbbell External Rotation: 9.8 kg
-Front Squat: 127.5 kg
-Deadlift: 187.5 kg
-Power Clean: 99.0 kg
-Power Snatch: 76.5 kg
-Peterson Step-up: 69.0 kg
-Triple Jumpers Step-up: 45.0 kg
-Full Snatch: 99.0 kg
-Close Grip Bench Press (Lower Body): 99.0 kg
+- Incline Bench Press: 91.0 kg
+- Parallel Bar Dip: 117.0 kg
+- 1-Arm Dumbbell Press (per arm): 30.0 kg
+- Lying Triceps Extension: 40.0 kg
+- Supinated Chin-ups: 87.0 kg
+- Scott Barbell Curls: 46.0 kg
+- Standing Reverse Curls: 40.0 kg
+- Flat Powel Raise: 10.6 kg
+- Bent-over Dumbbell Trap-3 Raise: 10.6 kg
+- Seated Dumbbell External Rotation: 9.8 kg
+- Front Squat: 127.5 kg
+- Deadlift: 187.5 kg
+- Power Clean: 99.0 kg
+- Power Snatch: 76.5 kg
+- Peterson Step-up: 69.0 kg
+- Triple Jumpers Step-up: 45.0 kg
+- Full Snatch: 99.0 kg
+- Close Grip Bench Press (Lower Body): 99.0 kg
 
 
 ## Ratios Used
