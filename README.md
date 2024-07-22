@@ -34,8 +34,8 @@ The Poliquin Structural Balance Calculator helps in assessing the strength balan
 Here is an example of the input and output from the calculator:
 
 
-** Enter the Close Grip Bench Press weight (kg): 100 **
-** Enter the High Bar Back Squat weight (kg): 150 **
+**Enter the Close Grip Bench Press weight (kg): 100**
+**Enter the High Bar Back Squat weight (kg): 150**
 
 - Incline Bench Press: 91.0 kg
 - Parallel Bar Dip: 117.0 kg
