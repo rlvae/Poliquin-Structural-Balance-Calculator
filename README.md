@@ -11,23 +11,6 @@ The Poliquin Structural Balance Calculator helps in assessing the strength balan
 - **Input**: Maximum weights for Close Grip Bench Press and High Bar Back Squat.
 - **Output**: Recommended weights for other exercises based on Poliquin's ratios.
 
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/rlvae/Poliquin-Structural-Balance-Calculator.git
-    cd Poliquin-Structural-Balance-Calculator
-    ```
-2. Run the Python script:
-    ```bash
-    python Poliquin_Structural_Balance_Calculator.py
-    ```
-
-3. Enter the required values when prompted:
-    - Close Grip Bench Press (kg)
-    - High Bar Back Squat (kg)
-
-4. The script will output the recommended weights for various exercises.
 
 ## Example
 
